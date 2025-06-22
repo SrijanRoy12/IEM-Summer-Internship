@@ -9,3 +9,4 @@ redis
 openai
 google-generativeai
 streamlit-lottie
+streamlit-extras
