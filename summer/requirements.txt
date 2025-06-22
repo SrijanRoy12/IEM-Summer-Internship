@@ -1,0 +1,11 @@
+# crewai
+streamlit
+plotly
+fastapi
+uvicorn
+python-dotenv
+langchain
+redis
+openai
+google-generativeai
+streamlit-lottie
